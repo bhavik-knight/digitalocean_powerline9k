@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "---";
+echo "Does the terminal look ugly?";
+echo "Install https://github.com/ryanoasis/nerd-fonts and set the font in iTerm to: SauceCodePro Nerd Font 14pt Regular";
+echo "~ Mike F";
